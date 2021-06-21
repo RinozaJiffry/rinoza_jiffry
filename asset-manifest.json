@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rinoza_jiffry/static/css/main.8bdc0c9e.chunk.css",
-    "main.js": "/rinoza_jiffry/static/js/main.aa6839f8.chunk.js",
-    "main.js.map": "/rinoza_jiffry/static/js/main.aa6839f8.chunk.js.map",
+    "main.js": "/rinoza_jiffry/static/js/main.ff95b0c7.chunk.js",
+    "main.js.map": "/rinoza_jiffry/static/js/main.ff95b0c7.chunk.js.map",
     "runtime-main.js": "/rinoza_jiffry/static/js/runtime-main.e3621611.js",
     "runtime-main.js.map": "/rinoza_jiffry/static/js/runtime-main.e3621611.js.map",
     "static/js/2.c6168159.chunk.js": "/rinoza_jiffry/static/js/2.c6168159.chunk.js",
@@ -33,6 +33,7 @@
     "static/media/game-dev.20147858.svg": "/rinoza_jiffry/static/media/game-dev.20147858.svg",
     "static/media/guiness.3431f2f1.png": "/rinoza_jiffry/static/media/guiness.3431f2f1.png",
     "static/media/guvi.9d05a16c.png": "/rinoza_jiffry/static/media/guvi.9d05a16c.png",
+    "static/media/hack.38289283.jpg": "/rinoza_jiffry/static/media/hack.38289283.jpg",
     "static/media/intelligence.11bd2ab2.svg": "/rinoza_jiffry/static/media/intelligence.11bd2ab2.svg",
     "static/media/iot.c492de6e.png": "/rinoza_jiffry/static/media/iot.c492de6e.png",
     "static/media/java.0622b6f1.jpg": "/rinoza_jiffry/static/media/java.0622b6f1.jpg",
@@ -60,6 +61,6 @@
     "static/js/runtime-main.e3621611.js",
     "static/js/2.c6168159.chunk.js",
     "static/css/main.8bdc0c9e.chunk.css",
-    "static/js/main.aa6839f8.chunk.js"
+    "static/js/main.ff95b0c7.chunk.js"
   ]
 }
